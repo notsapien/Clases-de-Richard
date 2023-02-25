@@ -8,3 +8,8 @@
 npm install -g @angular/cli
 ```
 
+3.Despues en la consola pondremos el siguiente comando para crear el cliente con angular
+
+```
+ng new (nombre)
+```

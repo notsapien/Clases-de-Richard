@@ -1,4 +1,4 @@
-##Pasos para usar angular en el pc:
+### Pasos para usar angular en el pc:
 
 1.Instalar NodeJS desde https://nodejs.org/es/download/
 

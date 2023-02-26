@@ -21,7 +21,7 @@ ng new (nombre)
 ```
 ng serve--o
 ```
-#### 1. En caso de que queramos usar Bootstrap 
+#### 1. usar Bootstrap (opcional) 
 >primero iremos a la siguiente pagina https://getbootstrap.com/
 luego pondremos el siguiente comando para instalarlo en el proyecto
 >nota el comando cambiara dependiendo la version actual de bootstrap, por lo cual se aconseja meterse en el link y buscar el comando
@@ -32,4 +32,24 @@ npm install bootstrap@5.3.0-alpha1
 ```
 "node_modules/bootstrap/dist/css/bootstrap.css"
 ```
+
+### 2. Generar componentes
+Para generar los componentes se usa el comando
+```
+ng g c components/Nombre-del-componente
+```
+Para este proyecto usaremos
+- crear-producto
+- listar-producto
+
+### 3. Generar servicios
+Para generar los servicios se usa el comando
+```
+ng g s services/Nombre-del-servicio
+```
+Para este proyecto usaremos
+- productoService
+
+### 4. Crear Carpeta models
+A nivel de components y services crearemos una carpeta llamada "Models"
 

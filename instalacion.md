@@ -17,9 +17,11 @@ ng new (nombre)
 ```
 
 ### Pasos para hacer el proyecto
->Como consejo se recomienda iniciar el proyecto apenas comenzar con ng serve--o y ver que inicie bien
-
-1. En caso de que queramos usar Bootstrap 
+>Como consejo se recomienda iniciar el proyecto apenas comenzar y ver que inicie bien
+```
+ng serve--o
+```
+#### 1. En caso de que queramos usar Bootstrap 
 >primero iremos a la siguiente pagina https://getbootstrap.com/
 luego pondremos el siguiente comando
 ```

@@ -51,5 +51,5 @@ Para este proyecto usaremos
 - productoService
 
 ### 4. Crear Carpeta models
-A nivel de components y services crearemos una carpeta llamada *Models*
+A nivel de components y services crearemos una carpeta llamada **Models**
 

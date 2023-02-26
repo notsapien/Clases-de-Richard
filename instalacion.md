@@ -53,5 +53,5 @@ Para este proyecto usaremos
 ### 4. Crear Carpeta models
 A nivel de components y services crearemos una carpeta llamada **Models**
 dentro de models creamos un archivo llamado producto.ts
->El codigo de este producto estara dentro de la carpeta models
+>El codigo de producto.ts lo encontraran en la carpeta models del proyecto o [ACA](https://github.com/notsapien/Clases-de-Richard/blob/main/cliente-angular/src/app/models/producto.ts)
 

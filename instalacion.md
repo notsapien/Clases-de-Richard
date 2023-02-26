@@ -55,3 +55,11 @@ A nivel de components y services crearemos una carpeta llamada **Models**
 dentro de models creamos un archivo llamado producto.ts
 >El codigo de producto.ts lo encontraran en la carpeta models del proyecto o [ACA](https://github.com/notsapien/Clases-de-Richard/blob/main/cliente-angular/src/app/models/producto.ts)
 
+### 5. Rutas
+en [app-routing.module.ts](https://github.com/notsapien/Clases-de-Richard/blob/main/cliente-angular/src/app/app-routing.module.ts)
+```
+  {path:'',component:ListarProductoComponent},
+  {path:'crear-producto',component:CrearProductoComponent},
+  {path:'editar-producto/:id',component:CrearProductoComponent},
+  {path:'**',pathMatch:'full',redirectTo:''}
+```

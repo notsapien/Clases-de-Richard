@@ -52,4 +52,6 @@ Para este proyecto usaremos
 
 ### 4. Crear Carpeta models
 A nivel de components y services crearemos una carpeta llamada **Models**
+dentro de models creamos un archivo llamado producto.ts
+>El codigo de este producto estara dentro de la carpeta models
 

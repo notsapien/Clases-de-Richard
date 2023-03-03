@@ -3,3 +3,7 @@ body{
     background: -webkit-linear-gradient(to right, #434343, #000000);
     background: linear-gradient(to right, #434343, #000000);
 }
+
+.titulo{
+    font-size: 1.8rem;
+}

@@ -78,3 +78,7 @@ y el cdn actual es este
 >https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css
  y lo ponemos en el index.html
 
+ ### 7. Diseño
+ Los siguientes pasos seran empezar a hacer el html y css de los componentes a usar en este caso
+ Crear-producto y listar-producto
+

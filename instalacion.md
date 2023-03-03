@@ -96,6 +96,21 @@ mongodb+srv://root:\<password\>@projectmeanwithme.c9qexxl.mongodb.net/
 y cambiaremos \<password\> por la contraseña del proyecto
 
 ### 9.Nodejs
+lo primero sera crear la carpeta servidor y desde la terminal poner
+>npm init
+esto nos creara un package.json
 
+lo siguiente sera instalar las dependencias
+
+primero nodemon (la -D es porque es en desarollo)
+>npm i -D nodemon
+
+luego instalaremos las siguientes
+>npm i express dotenv cors mongoose
+
+para que funcione nodemon iremos al package.json y en script pondremos lo siguiente
+>"dev":"nodemon ."
+
+luego crearemos el index.js
 
 

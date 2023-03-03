@@ -92,6 +92,10 @@ instalaremos monog db compass
 ) se puede encontrar en el siguiente link https://github.com/mongodb-js/compass/releases/tag/v1.33.1
 
 en el mongo db compass ponemos lo siguiente
-mongodb+srv://root:\<password\>@projectmeanwithme.c9qexxl.mongodb.net/test
-y cambiaremos <password> por la contraseña del proyecto
+mongodb+srv://root:\<password\>@projectmeanwithme.c9qexxl.mongodb.net/
+y cambiaremos \<password\> por la contraseña del proyecto
+
+### 9.Nodejs
+
+
 

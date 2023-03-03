@@ -87,3 +87,11 @@ y el cdn actual es este
 Lo primero que haremos sera ir a la pagina principal de Mongodb e iniciar sesion
 En la pagina crearemos una base de datos, le ponemos cualquier nombre, creamos el usuario y contraseña
 >para este proyecto el usuario es root y la contraseña es 1234
+instalaremos monog db compass
+>para este proyecto se usa la version 1.33.1 (el nombre del archivo es mongodb-compass-1.33.1-win32-x64.exe
+) se puede encontrar en el siguiente link https://github.com/mongodb-js/compass/releases/tag/v1.33.1
+
+en el mongo db compass ponemos lo siguiente
+mongodb+srv://root:<<password>>@projectmeanwithme.c9qexxl.mongodb.net/test
+y cambiaremos <password> por la contraseña del proyecto
+

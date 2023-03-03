@@ -71,3 +71,10 @@ hay que asegurarnos que en [app.component.html](https://github.com/notsapien/Cla
 En caso de que queramos usar UiGradients (que es para añadir fondos en degradado) usar el siguiente link 
 https://uigradients.com/
 
+Para fontawesome buscaremos en internet fontawesome cdn (lo usaremos para iconos) el link del cdn esta aca
+https://cdnjs.com/libraries/font-awesome
+
+y el cdn actual es este
+>https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css
+ y lo ponemos en el index.html
+

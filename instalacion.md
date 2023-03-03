@@ -82,3 +82,8 @@ y el cdn actual es este
  Los siguientes pasos seran empezar a hacer el html y css de los componentes a usar en este caso
  Crear-producto y listar-producto
 
+### 8. Mongodb
+
+Lo primero que haremos sera ir a la pagina principal de Mongodb e iniciar sesion
+En la pagina crearemos una base de datos, le ponemos cualquier nombre, creamos el usuario y contraseña
+>para este proyecto el usuario es root y la contraseña es 1234

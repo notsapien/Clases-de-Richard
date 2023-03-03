@@ -111,6 +111,12 @@ luego instalaremos las siguientes
 para que funcione nodemon iremos al package.json y en script pondremos lo siguiente
 >"dev":"nodemon ."
 
-luego crearemos el index.js
+luego crearemos el index.js y pondremos algunas cosas
+
+a nivel del index.js crearemos las carpetas
+-routes
+-models
+-controllers
+-config
 
 

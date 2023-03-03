@@ -65,3 +65,9 @@ en [app-routing.module.ts](https://github.com/notsapien/Clases-de-Richard/blob/m
 ```
 
 hay que asegurarnos que en [app.component.html](https://github.com/notsapien/Clases-de-Richard/blob/main/cliente-angular/src/app/app.component.html) se encuentre el <router-outlet></router-outlet>
+
+### 6. UiGradients y fontsAwesome(opcional)
+
+En caso de que queramos usar UiGradients (que es para añadir fondos en degradado) usar el siguiente link 
+https://uigradients.com/
+

@@ -1,3 +1,3 @@
 const express= require('express');
 
-const APP= express;
+const app= express();
